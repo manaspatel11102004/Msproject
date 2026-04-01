@@ -1,0 +1,71 @@
+Date,City,State,Temperature_Max_C,Temperature_Min_C,Temperature_Avg_C,Humidity_pct,Rainfall_mm,Wind_Speed_kmh,AQI,AQI_Category,Pressure_hPa,Cloud_Cover_pct
+2025-12-25,Bhopal,Madhya Pradesh,31.5,22.3,26.9,86.7,0.0,16.2,175,Moderate,993.2,93.5
+2025-12-25,Delhi,Delhi,29.7,16.7,23.2,74.1,40.8,10.6,335,Very Poor,1011.0,65.8
+2025-12-25,Chennai,Tamil Nadu,25.2,15.4,20.3,33.7,8.0,18.9,307,Very Poor,1022.9,44.6
+2025-12-25,Mumbai,Maharashtra,28.3,21.0,24.6,30.1,0.0,7.3,263,Poor,1021.3,36.0
+2025-12-25,Bengaluru,Karnataka,27.7,21.3,24.5,60.0,0.0,8.5,295,Poor,1000.7,7.3
+2025-12-25,Lucknow,Uttar Pradesh,39.8,34.6,37.2,64.7,8.4,15.9,200,Moderate,996.4,53.3
+2025-12-25,Ahmedabad,Gujarat,35.6,22.2,28.9,55.3,15.8,21.5,307,Very Poor,1020.3,85.0
+2025-12-25,Jaipur,Rajasthan,41.3,27.3,34.3,60.0,9.4,18.3,50,Good,1018.7,75.1
+2025-12-25,Hyderabad,Telangana,28.4,17.5,22.9,48.5,0.0,17.5,261,Poor,1024.1,28.5
+2025-12-25,Kolkata,West Bengal,28.7,19.2,23.9,30.6,42.1,9.3,141,Moderate,1013.5,84.2
+2025-12-26,Chennai,Tamil Nadu,31.5,18.9,25.2,40.9,0.0,16.8,87,Satisfactory,992.0,28.5
+2025-12-26,Ahmedabad,Gujarat,35.9,23.9,29.9,76.9,48.7,19.3,134,Moderate,1001.9,39.6
+2025-12-26,Bhopal,Madhya Pradesh,31.0,24.5,27.7,86.7,0.0,11.7,41,Good,990.6,16.5
+2025-12-26,Bengaluru,Karnataka,34.5,25.1,29.8,58.5,0.0,16.2,177,Moderate,1004.4,35.8
+2025-12-26,Delhi,Delhi,35.1,22.2,28.6,70.8,0.9,22.8,118,Moderate,1022.7,84.7
+2025-12-26,Lucknow,Uttar Pradesh,41.6,28.4,35.0,43.6,46.6,7.5,132,Moderate,1021.6,18.4
+2025-12-26,Kolkata,West Bengal,30.8,22.5,26.7,62.2,0.0,14.2,87,Satisfactory,1024.7,25.0
+2025-12-26,Mumbai,Maharashtra,40.0,28.3,34.1,82.0,0.4,21.2,218,Poor,1006.3,80.7
+2025-12-26,Jaipur,Rajasthan,37.6,31.6,34.6,48.9,5.0,20.3,310,Very Poor,995.7,26.4
+2025-12-26,Hyderabad,Telangana,41.9,32.7,37.3,85.0,0.0,16.0,349,Very Poor,1005.7,48.6
+2025-12-27,Kolkata,West Bengal,44.8,30.5,37.7,69.7,0.0,13.0,54,Satisfactory,1015.6,99.3
+2025-12-27,Bengaluru,Karnataka,32.1,17.2,24.6,34.5,0.0,12.2,277,Poor,1004.2,37.1
+2025-12-27,Jaipur,Rajasthan,38.1,30.6,34.4,66.7,0.0,14.0,196,Moderate,1005.9,44.4
+2025-12-27,Hyderabad,Telangana,29.6,22.5,26.1,84.1,0.0,21.6,46,Good,1007.5,68.4
+2025-12-27,Bhopal,Madhya Pradesh,38.5,26.3,32.4,69.2,0.0,21.1,303,Very Poor,1010.0,78.3
+2025-12-27,Lucknow,Uttar Pradesh,33.1,24.6,28.9,37.5,0.0,19.0,346,Very Poor,999.4,41.2
+2025-12-27,Ahmedabad,Gujarat,38.0,30.6,34.3,86.3,0.0,8.7,345,Very Poor,994.4,75.3
+2025-12-27,Chennai,Tamil Nadu,41.4,33.0,37.2,61.4,0.0,20.5,271,Poor,1017.9,61.1
+2025-12-27,Mumbai,Maharashtra,25.5,10.5,18.0,59.2,61.6,4.4,210,Poor,1008.4,35.6
+2025-12-27,Delhi,Delhi,31.6,24.8,28.2,73.7,0.0,16.1,320,Very Poor,1016.4,11.9
+2025-12-28,Bengaluru,Karnataka,29.4,20.0,24.7,83.4,6.1,20.4,79,Satisfactory,998.1,6.8
+2025-12-28,Jaipur,Rajasthan,26.2,18.2,22.2,31.7,50.5,11.3,59,Satisfactory,1000.6,91.9
+2025-12-28,Kolkata,West Bengal,39.9,29.7,34.8,63.2,0.0,9.9,146,Moderate,1016.1,11.3
+2025-12-28,Mumbai,Maharashtra,41.4,32.4,36.9,54.0,0.0,4.8,319,Very Poor,991.5,63.5
+2025-12-28,Delhi,Delhi,27.6,14.6,21.1,54.7,6.2,5.1,64,Satisfactory,994.0,92.8
+2025-12-28,Ahmedabad,Gujarat,28.3,19.9,24.1,77.8,1.6,15.7,85,Satisfactory,993.7,94.7
+2025-12-28,Hyderabad,Telangana,31.4,21.5,26.4,60.1,53.8,6.2,74,Satisfactory,1005.1,43.0
+2025-12-28,Lucknow,Uttar Pradesh,34.5,26.9,30.7,54.8,0.0,24.7,55,Satisfactory,990.9,77.0
+2025-12-28,Bhopal,Madhya Pradesh,33.6,26.6,30.1,91.4,42.4,18.6,64,Satisfactory,1023.3,71.9
+2025-12-28,Chennai,Tamil Nadu,28.3,22.9,25.6,78.6,0.0,15.9,332,Very Poor,1008.2,82.9
+2025-12-29,Chennai,Tamil Nadu,34.0,26.6,30.3,35.5,0.0,20.0,80,Satisfactory,991.1,27.4
+2025-12-29,Kolkata,West Bengal,33.1,19.1,26.1,54.3,0.0,10.4,271,Poor,993.1,38.2
+2025-12-29,Ahmedabad,Gujarat,27.0,20.5,23.7,68.8,0.0,23.7,141,Moderate,994.4,93.5
+2025-12-29,Mumbai,Maharashtra,37.3,22.5,29.9,43.9,0.0,3.9,54,Satisfactory,1001.9,78.7
+2025-12-29,Bhopal,Madhya Pradesh,38.6,28.2,33.4,32.9,0.0,24.6,327,Very Poor,1024.9,18.4
+2025-12-29,Jaipur,Rajasthan,41.4,26.9,34.2,63.8,0.0,14.7,46,Good,1019.8,64.0
+2025-12-29,Bengaluru,Karnataka,30.4,18.0,24.2,40.3,0.0,11.2,144,Moderate,998.1,92.2
+2025-12-29,Delhi,Delhi,31.4,20.1,25.8,91.7,0.0,7.4,202,Poor,1012.3,99.9
+2025-12-29,Hyderabad,Telangana,41.9,29.7,35.8,30.5,61.2,18.0,311,Very Poor,997.9,15.2
+2025-12-29,Lucknow,Uttar Pradesh,31.1,17.4,24.3,45.6,0.0,10.0,220,Poor,1018.6,85.7
+2025-12-30,Kolkata,West Bengal,37.0,24.0,30.5,54.3,0.0,23.3,275,Poor,1002.2,39.9
+2025-12-30,Chennai,Tamil Nadu,25.4,15.2,20.3,60.5,40.3,22.4,337,Very Poor,994.4,55.6
+2025-12-30,Bengaluru,Karnataka,32.9,19.2,26.0,32.0,6.9,20.8,244,Poor,1021.6,72.9
+2025-12-30,Jaipur,Rajasthan,28.1,14.9,21.5,81.5,8.4,24.1,120,Moderate,999.0,73.1
+2025-12-30,Hyderabad,Telangana,35.5,26.9,31.2,87.4,8.3,17.9,72,Satisfactory,1001.4,14.5
+2025-12-30,Bhopal,Madhya Pradesh,25.4,14.9,20.1,33.6,0.0,3.0,278,Poor,995.7,24.8
+2025-12-30,Mumbai,Maharashtra,38.5,28.8,33.7,52.4,0.0,14.3,315,Very Poor,1012.8,7.4
+2025-12-30,Delhi,Delhi,44.0,32.9,38.5,37.6,0.0,15.3,99,Satisfactory,994.0,18.4
+2025-12-30,Ahmedabad,Gujarat,37.9,31.8,34.9,88.9,0.0,18.3,226,Poor,1018.8,84.7
+2025-12-30,Lucknow,Uttar Pradesh,31.1,21.3,26.2,88.2,0.5,10.3,311,Very Poor,1002.4,50.9
+2025-12-31,Delhi,Delhi,28.3,18.8,23.6,71.5,0.0,10.5,117,Moderate,1007.5,34.7
+2025-12-31,Kolkata,West Bengal,32.0,23.0,27.5,87.5,0.0,24.8,281,Poor,999.8,20.1
+2025-12-31,Jaipur,Rajasthan,44.2,37.6,40.9,74.8,1.2,20.5,329,Very Poor,1006.4,80.0
+2025-12-31,Hyderabad,Telangana,41.8,32.8,37.3,65.2,4.2,19.4,95,Satisfactory,1007.0,48.3
+2025-12-31,Chennai,Tamil Nadu,43.1,36.8,39.9,90.0,7.4,24.9,161,Moderate,1006.3,36.3
+2025-12-31,Bhopal,Madhya Pradesh,37.8,25.8,31.8,53.7,0.0,24.0,157,Moderate,996.7,21.4
+2025-12-31,Bengaluru,Karnataka,32.5,19.7,26.1,46.4,8.5,24.3,60,Satisfactory,1023.3,46.3
+2025-12-31,Ahmedabad,Gujarat,37.7,23.5,30.6,76.7,12.7,9.1,173,Moderate,1000.5,49.6
+2025-12-31,Lucknow,Uttar Pradesh,43.7,35.3,39.5,50.3,0.0,7.3,80,Satisfactory,1011.6,45.9
+2025-12-31,Mumbai,Maharashtra,37.5,25.1,31.3,54.0,0.0,10.8,226,Poor,999.2,33.2
