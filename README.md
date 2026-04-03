@@ -15,6 +15,8 @@ This project analyzes climate change indicators with a Kaggle dataset covering I
 Kaggle source:
 [Indian Climate Dataset (2024-2025)](https://www.kaggle.com/datasets/ankushnarwade/indian-climate-dataset-20242025)
 
+
+Running link : https://msproject-j9kzwvelc6656ngtbjxmqj.streamlit.app/
 ## Run locally
 
 ```bash
