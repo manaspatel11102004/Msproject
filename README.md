@@ -16,7 +16,8 @@ Kaggle source:
 [Indian Climate Dataset (2024-2025)](https://www.kaggle.com/datasets/ankushnarwade/indian-climate-dataset-20242025)
 
 
-Running link : https://msproject-j9kzwvelc6656ngtbjxmqj.streamlit.app/
+**Running link** : https://msproject-j9kzwvelc6656ngtbjxmqj.streamlit.app/
+
 ## Run locally
 
 ```bash
